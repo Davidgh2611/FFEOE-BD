@@ -45,9 +45,10 @@ Maven instalado (o usar el mvnw incluido).
 Clonar el repositorio:
 
 Bash
-git clone <URL_DE_TU_REPOSITORIO>
+git clone https://github.com/Davidgh2611/FFEOE-BD
 cd cardio
 Ejecutar la aplicación:
+
 Se puede arrancar desde el IDE (IntelliJ) o mediante terminal con el siguiente comando:
 
 Bash
