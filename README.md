@@ -35,6 +35,7 @@ erDiagram
         int taller_id FK
         date fecha_registro
     }
+````
 🛠️ Requisitos Previos
 Java 21 o superior instalado.
 
